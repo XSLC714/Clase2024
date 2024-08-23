@@ -1,0 +1,26 @@
+body {
+    background-color: green; 
+}
+h1 {
+    text-align: justify;
+    color:rgb(54, 12, 67);
+    font-size: 300;
+}
+p {
+    Color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    font-size: 100;
+}
+Text {
+    text-align: justify;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200;
+}
+a {
+    color: violet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    font-size: 100;
+}
